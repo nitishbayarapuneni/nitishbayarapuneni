@@ -1,17 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0D0D0D,50:1a0050,100:0D0D0D&height=160&section=header&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0050,100:7b2fbe&height=200&section=header&text=Venkata%20Nitish&fontSize=52&fontColor=00FFF0&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Java%20Backend%20Developer&descAlignY=58&descColor=ffffff&descSize=20" width="100%"/>
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                  SYSTEM BOOT: NITISH.EXE                        ║
-║          Full Stack Engineer | Backend Architect                 ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=800&color=00FFF0&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=%E2%9A%A1+Engineering+backends+that+don't+break+at+3AM;%F0%9F%9A%80+Spring+Boot+%7C+React.js+%7C+AWS+%7C+Kafka;%F0%9F%94%A5+20-40%25+faster+APIs.+Every+time.;%F0%9F%8C%90+Open+to+Relocate+%E2%80%94+Let's+build+something+big" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00FFF0&center=true&vCenter=true&width=700&height=45&lines=Spring+Boot+%7C+React.js+%7C+AWS+%7C+Kafka;APIs+cut+by+20-40%25+latency+every+sprint;Microservices+%7C+Docker+%7C+Kubernetes;99.2%25+Uptime+Engineer+%7C+Open+to+Relocate" alt="Typing Animation"/>
 
 <br/><br/>
 
@@ -480,6 +473,6 @@ const nitish = {
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:1a0050,50:0D0D0D,100:1a0050&height=120&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fbe,50:1a0050,100:0d0d0d&height=120&section=footer" width="100%"/>
 
 </div>
