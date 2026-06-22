@@ -1,8 +1,8 @@
-# <div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0D1117,25:240046,50:5A189A,75:7B2CBF,100:00F5FF&text=VENKATA%20NITISH%20BAYARAPUNENI&fontSize=42&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20JAVA%20BACKEND%20ENGINEER%20%7C%20CLOUD%20BUILDER&descAlignY=58&descColor=FFFFFF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE...;SPRING+BOOT+%7C+REACT+%7C+AWS+%7C+KAFKA;BUILDING+SCALABLE+MICROSERVICES;OPTIMIZING+LATENCY+%26+PERFORMANCE;OPEN+TO+SOFTWARE+ENGINEERING+OPPORTUNITIES"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+React+%7C+AWS+%7C+Kafka;Microservices+%7C+Docker+%7C+Kubernetes;Optimizing+Latency+and+Performance;Open+to+Software+Engineering+Opportunities"/>
 
 <br>
 
@@ -16,199 +16,165 @@
 
 ---
 
-# ⚡ NEURAL PROFILE
-
-```yaml
-Name: Venkata Nitish Bayarapuneni
-
-Role:
-  Full Stack Developer
-  Java Backend Engineer
-
-Location:
-  Warrensburg, Missouri, USA
-
-Education:
-  B.S. Computer Science
-  University of Central Missouri
-
-Focus Areas:
-  - Distributed Systems
-  - Microservices
-  - Cloud Architecture
-  - Backend Engineering
-  - Full Stack Development
-
-Current Mission:
-  GlobeTrote
-  AI-Powered Travel Intelligence Platform
-
-Status:
-  Available For Full-Time Software Engineering Roles
-```
-
----
-
-# 🚀 PERFORMANCE METRICS
+# ⚡ About Me
 
 <div align="center">
 
-| Metric                        | Impact      |
-| ----------------------------- | ----------- |
-| Backend Features Delivered    | 5+          |
-| Critical Bugs Resolved        | 15+         |
-| API Latency Reduction         | 20–40%      |
-| Concurrent Users Supported    | 100+        |
-| Hibernate Query Optimization  | 27% Faster  |
-| Production Uptime Improvement | 96% → 99.2% |
+🔹 Full Stack Developer passionate about scalable software
+
+🔹 Java Backend Engineer focused on Spring Boot and Microservices
+
+🔹 Building AI-powered Travel Intelligence Platform — GlobeTrote 🌍
+
+🔹 Interested in Distributed Systems, Cloud Computing & Performance Engineering
+
+🔹 Open to Full-Time Software Engineering Roles
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=for-the-badge&logo=spring"/>
+
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Event_Driven-Kafka-231F20?style=for-the-badge&logo=apachekafka"/>
 
 </div>
 
 ---
 
-# 🛠 TECH ARSENAL
+# 🚀 Impact Snapshot
 
 <div align="center">
 
-## Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,go,cpp,bash"/>
-
-## Backend
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,django,flask"/>
-
-## Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,angular,vue,html,css,bootstrap"/>
-
-## Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins"/>
-
-## Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
+| Metric | Result |
+|----------|----------|
+| Backend Features Delivered | 5+ |
+| Critical Bugs Resolved | 15+ |
+| API Latency Reduction | 20–40% |
+| Concurrent Users Supported | 100+ |
+| Query Optimization | 27% Faster |
+| Uptime Improvement | 96% → 99.2% |
 
 </div>
 
 ---
 
-# 🧠 EXPERIENCE LOG
+# ⚙️ Technology Matrix
 
-## 🔹 BlackBuck Engineers
+<div align="center">
 
-### Java / Full Stack Developer Intern
+<img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,react,nextjs,nodejs,mongodb,mysql,postgres,redis,docker,kubernetes,aws,azure,gcp,terraform,jenkins,kafka,git,github"/>
 
-```diff
-+ Developed 5+ production backend features using Spring Boot
-+ Implemented secure RBAC architecture with Spring Security
-+ Reduced API response time by 20–40% through Redis caching
-+ Resolved 15+ critical bugs reducing production errors
-+ Built automated testing pipelines using JUnit & Mockito
-```
+</div>
 
 ---
 
-## 🔹 Versada Technologies
+# 💼 Experience
 
-### Full Stack Developer
+## 🚀 BlackBuck Engineers
 
-```diff
-+ Built scalable Spring Boot APIs
-+ Designed Kafka-based event-driven communication
-+ Reduced Hibernate query latency by 27%
-+ Integrated secure payment workflows
-+ Increased uptime from 96% to 99.2%
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=00F5FF&width=800&lines=Developed+Production+Backend+Features;Implemented+Secure+RBAC+Architecture;Reduced+API+Latency+Using+Redis"/>
+
+- Built 5+ backend features using Spring Boot
+- Implemented Spring Security RBAC
+- Reduced API response time by 20–40%
+- Fixed 15+ critical production bugs
+- Developed JUnit & Mockito test coverage
 
 ---
 
-# 🌍 FEATURED PROJECTS
+## 🚀 Versada Technologies
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=7B2CBF&width=800&lines=Built+Scalable+Spring+Boot+APIs;Designed+Kafka+Workflows;Improved+System+Reliability"/>
+
+- Developed scalable Spring Boot services
+- Built Kafka event-driven communication
+- Reduced Hibernate latency by 27%
+- Integrated secure payment processing
+- Improved uptime from 96% to 99.2%
+
+---
+
+# 🌍 Featured Projects
 
 ## 🚀 GlobeTrote
 
-### AI-Powered Travel Intelligence Platform
+<div align="center">
 
-```text
-React.js Frontend
-      │
-      ▼
-Spring Boot APIs
-      │
-      ▼
-Spring Security + JWT
-      │
-      ▼
-MongoDB Atlas
-      │
-      ▼
-RAG Recommendation Engine
-      │
-      ▼
-Docker + AWS EC2
-```
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring"/>
 
-### Highlights
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
-* JWT Authentication
-* Role-Based Access Control
-* Personalized Travel Recommendations
-* Cloud Deployment
-* Containerized Architecture
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
+
+</div>
+
+✨ JWT Authentication  
+✨ Role Based Access Control  
+✨ AI Travel Recommendations  
+✨ RAG Pipeline  
+✨ Dockerized Deployment  
+✨ AWS Hosting
 
 ---
 
 ## 🤖 Android Malware Detection System
 
-```text
-APK Input
-   │
-   ▼
-Feature Extraction
-   │
-   ▼
-Permission Analysis
-   │
-   ▼
-Ensemble ML Engine
-   │
-   ▼
-FastAPI REST Layer
-   │
-   ▼
-Docker Deployment
-```
+<div align="center">
 
-### Highlights
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
 
-* Malware Classification
-* API Call Analysis
-* FastAPI Backend
-* Swagger Documentation
-* Containerized Deployment
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+</div>
+
+✨ Malware Classification Engine  
+✨ Permission Analysis  
+✨ API Call Detection  
+✨ REST APIs  
+✨ Swagger Documentation
 
 ---
 
 ## 🗺️ AR Travel Memory System
 
-### Highlights
+<div align="center">
 
-* Geolocation-Based Discovery
-* Firebase Notifications
-* Google Maps Integration
-* Observer Pattern
-* Factory Pattern
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps"/>
+
+</div>
+
+✨ Real-Time Attraction Discovery  
+✨ Firebase Notifications  
+✨ Geolocation Services  
+✨ Observer Pattern  
+✨ Factory Pattern
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitishbayarapuneni&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nitishbayarapuneni&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishbayarapuneni&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishbayarapuneni&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br>
 
@@ -222,58 +188,48 @@ Docker Deployment
 
 ---
 
-# 🐍 CONTRIBUTION MATRIX
+# 🏆 Certifications
 
-> Enable the Snake Workflow and add the generated SVG below.
+🏅 IBM Java Developer Professional Certificate
 
-```markdown
-<p align="center">
-<img src="https://raw.githubusercontent.com/nitishbayarapuneni/nitishbayarapuneni/output/github-contribution-grid-snake-dark.svg">
-</p>
-```
+🏅 IBM Full Stack Developer Professional Certificate
+
+🏅 Career Essentials in Software Development (Microsoft & LinkedIn)
 
 ---
 
-# 🏆 CERTIFICATIONS
-
-* IBM Java Developer Professional Certificate
-* IBM Full Stack Developer Professional Certificate
-* Career Essentials in Software Development (Microsoft + LinkedIn)
-
----
-
-# 🌐 CONNECT
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="mailto:venkatanitishbayarapuneni@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/venkata-nitish-bayarapuneni">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/nitishbayarapuneni">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nitishbayarapuneni/nitishbayarapuneni/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
 <div align="center">
 
-## ⚡ SYSTEM STATUS
+### ⚡ Building scalable systems, one commit at a time
 
-```diff
-+ Backend Engineering
-+ Cloud Native Development
-+ Distributed Systems
-+ Full Stack Applications
-+ Open To Work
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F5FF,50:7B2CBF,100:0D1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F5FF,50:7B2CBF,100:0D1117"/>
 
 </div>
